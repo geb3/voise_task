@@ -28,14 +28,3 @@ with open('VoiseTask.txt', 'a') as file:
     file.write(f'{date} {time.hour}:{time.minute} - {qwery}.\n')
     print(f'Заметка сохранена!')
     exit()
-
-
-
-
-
-
-    
-
-
-
-
